@@ -10,4 +10,6 @@ A reading list on exo-to-ego video generation, paired ego+exo data, and the 3D c
 
 A check mark in `PAPERS.md` means the entry was checked against arXiv on 16 Nov 2026 (id, title, date, authors, abstract). Unmarked entries are leads: titles come from the fetched page, and an arXiv id is shown only when arXiv's own title for it matched. Licences were not checked; read the licence on any dataset before use.
 
+A missing code link means no public repo was found when checked (some say "code soon").
+
 Pull requests that add or correct a paper are welcome.
